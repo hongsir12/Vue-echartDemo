@@ -7,9 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "ace-builds": "^1.4.13",
     "core-js": "^3.6.5",
+    "echarts": "^5.2.1",
+    "echarts-stat": "^1.2.0",
+    "echarts-util": "^1.1.7",
+    "jquery": "^3.6.0",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "vue-xlsx-table": "^1.2.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
